@@ -22,7 +22,7 @@
 - ⚡ Fun fact: ...
 -->
 
-##### GitHub Stats ⭐️
+#### GitHub Stats ⭐️
 
 ![Ady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adycodes&show_icons=true&title_color=ffff&icon_color=ffc8dd&text_color=e5e5e5&bg_color=64a6bd)
 
