@@ -26,4 +26,4 @@
 
 ![Ady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adycodes&show_icons=true&title_color=ffff&icon_color=ffc8dd&text_color=e5e5e5&bg_color=64a6bd)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>🌞</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people, so feel free to say hi. </b>🌞</em>
